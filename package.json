@@ -1,0 +1,20 @@
+{
+  "name": "@distums/seal-char",
+  "version": "0.0.1",
+  "description": "an until function for sealing characters in string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distums/seal-char.git"
+  },
+  "keywords": [],
+  "author": "distums",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/distums/seal-char/issues"
+  },
+  "homepage": "https://github.com/distums/seal-char#readme"
+}
